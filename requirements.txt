@@ -1,6 +1,7 @@
 tqdm
 torch
 numpy
+einops
 argparse
 scikit-image
 opencv-python-headless
