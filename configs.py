@@ -22,6 +22,6 @@ WIDEFIELD_CONFIG = {'n_chan': 1,
 BASE_CONFIG = {'n_chan': 6,
                'stride': 5,
                 'g_map': 60,
-                'p_map': 30,
-                'lam_p': 150,
+                'p_map': 40,
+                'lam_p': 125,
                 'w_size': 3,}

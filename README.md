@@ -71,7 +71,7 @@ The arguments are explained as:
 
 | $\lambda$ | stride | filter | $k_g$ | $k_p$ | $\lambda_p$ |
 |:---:|:------:|:------:|:------:|:------:|:------:|
-|6	|5		|3	|60	|30	|150|
+|6	|5		|3	|60	|40	|125|
 
 </details>
 
